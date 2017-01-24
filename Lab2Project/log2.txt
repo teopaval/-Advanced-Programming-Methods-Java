@@ -1,0 +1,4514 @@
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+new(a, 10) ; fork(WriteH(a, 20)) ; print(readH(a) )
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+new(a, 10) ; fork(WriteH(a, 20)) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{}
+
+Out:
+
+
+
+Heap:
+
+{}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+
+
+Heap:
+
+{1=10}
+------------------------------
+
+ID: 
+1
+ExeStack:
+
+print(readH(a) )
+fork(WriteH(a, 20)) 
+new(a, 10) 
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}
+------------------------------
+
+ID: 
+10
+ExeStack:
+
+WriteH(a, 20)
+WriteH(a, 20)
+
+
+SymTable:
+
+{a=1}
+
+Out:
+
+10
+
+
+Heap:
+
+{1=20}

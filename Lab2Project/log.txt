@@ -1,0 +1,54 @@
+ExeStack:
+
+ExeStk{data=[print(v), a = 2 - 2; if (a) then v = 2 else v = 3, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=2}
+
+SymTable:
+
+SymTable{data={}}
+Out
+Out{data=[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+ExeStack:
+
+ExeStk{data=[print(v), if (a) then v = 2 else v = 3, a = 2 - 2, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=3}
+
+SymTable:
+
+SymTable{data={}}
+Out
+Out{data=[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+ExeStack:
+
+ExeStk{data=[print(v), if (a) then v = 2 else v = 3, a = 2 - 2, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=2}
+
+SymTable:
+
+SymTable{data={a=0}}
+Out
+Out{data=[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+ExeStack:
+
+ExeStk{data=[print(v), v = 3, a = 2 - 2, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=2}
+
+SymTable:
+
+SymTable{data={a=0}}
+Out
+Out{data=[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+ExeStack:
+
+ExeStk{data=[print(v), v = 3, a = 2 - 2, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=1}
+
+SymTable:
+
+SymTable{data={a=0, v=3}}
+Out
+Out{data=[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+ExeStack:
+
+ExeStk{data=[print(v), v = 3, a = 2 - 2, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
+
+SymTable:
+
+SymTable{data={a=0, v=3}}
+Out
+Out{data=[3, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], index=0}
